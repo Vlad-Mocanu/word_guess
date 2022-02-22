@@ -27,7 +27,7 @@ setup(
     ],
     keywords='words wordle guess',
     install_requires=[
-        'numpy==1.19.4',
+        'numpy==1.21.0',
         'pyyaml>=6.0',
         'wolframclient>=1.1.7'
     ]
